@@ -1,0 +1,25 @@
+------Vehicle Maintenance Scheduler Microservice------
+
+As per the question 
+. Each depot handles many service requests every day - from quick fixes to longer repairs. Every
+request comes with two key details of how long it will take and a score that
+represents how important it is to complete that task soon. The importance score is based on
+how much the vehicle contributes to operations. 
+. Choosing the right set of tasks directly affects overall efficiency.
+. The challenge is to pick a combination of tasks such that:
+--> The total time spent does not exceed the available mechanic-hours
+--> The total importance score is as high as possible
+Since the number of tasks can be very large, the solution should be efficient enough to handle
+real-world scale inputs.
+
+**There is limited mechanic hours, so picking the most important vehicles that fit within the time will be useful**.
+
+
+------Campus Notification Microservice------
+
+As per question
+
+
+
+
+
